@@ -1,0 +1,25 @@
+.add-frase-box {
+    padding: 20px;
+    margin: 20px 20px 20px 500px;
+}
+
+.add-frase-box input {
+    width: 300px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.add-frase-box h3{
+    margin-left: 60px;
+    font-family: 'Krona One', sans-serif;
+    
+}
+
+.m-buttom:active {
+    position: relative;
+    top: 1px;
+}
+
+.btn {
+    margin-left: 110px;
+}
